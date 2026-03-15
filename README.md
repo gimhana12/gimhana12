@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gimhana Charith</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gimhana12&label=Profile%20views&color=0e75b6&style=flat" alt="gimhana12" /> </p>
 
 ## 💫About Me :
