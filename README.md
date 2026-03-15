@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gimhana Charith</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=33&pause=1000&color=042D5E&width=450&height=50&lines=Hi+%2C+I'm+Gimhana+Charith+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=25&pause=1000&color=042D5E&width=600&height=40&lines=A+passionate+frontend+developer+from+Sri+Lanka" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
